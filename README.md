@@ -1,4 +1,4 @@
-# Food Receipy and Ordering App
+# Food Receipe and Ordering App
 
 
 
